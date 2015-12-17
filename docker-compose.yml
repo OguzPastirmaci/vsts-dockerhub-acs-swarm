@@ -1,0 +1,4 @@
+web:
+ image: oguzpastirmaci/vsts-dockerhub-tutum-azure
+ ports:
+  - "80:8000"
